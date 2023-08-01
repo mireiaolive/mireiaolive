@@ -5,8 +5,8 @@ I was born and raised in Barcelona, grateful for the creativity and the foreigne
 Eventually, I decided to enroll in a Full Stack Development Bootcamp, which provided a professional change and, after 13 years, brought me back to Barcelona. Today, programming, my family, friends, the sun, and the sea are my happiness.
 
 ### Technologies
+![html-5(1)](https://github.com/mireiaolive/mireiaolive/assets/83004118/1a486f4d-12eb-4b8b-a819-b2f4e6771aac)
 
-![html-5](https://github.com/mireiaolive/mireiaolive/assets/83004118/89219013-eb55-4de5-bb6b-53eb2ef30152)
 
 
 
