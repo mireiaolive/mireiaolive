@@ -64,14 +64,14 @@ Eventually, I decided to enroll in a Full Stack Development Bootcamp, which prov
   </a>
 </div>
 
-
-
-
 <h1>Languages</h1>
-- Spanish
-- Catalan
-- English
-- German
+<ul>
+  <li>Spanish</li>
+  <li>Catalan</li>
+  <li>English</li>
+  <li>German</li>
+</ul>
+
 
 
 
