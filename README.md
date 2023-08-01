@@ -9,9 +9,13 @@ Eventually, I decided to enroll in a Full Stack Development Bootcamp, which prov
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="100">
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="100">
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="100">
 </a>
+
 
 - Frontend Development
 - Backend Development
