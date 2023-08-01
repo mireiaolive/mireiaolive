@@ -6,6 +6,7 @@ Eventually, I decided to enroll in a Full Stack Development Bootcamp, which prov
 
 ### Technologies
 - Languages
+  :html5: :css3: :javascript:
 - Frontend Development
 - Backend Development
 - Database
