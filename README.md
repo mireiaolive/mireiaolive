@@ -6,7 +6,8 @@ Eventually, I decided to enroll in a Full Stack Development Bootcamp, which prov
 
 ### Technologies
 - Languages
- <img src="https://github.com/github/explore/blob/main/topics/python/python.png" width="30" style="transform: rotate(45deg);">
+ <img src="[https://github.com/github/explore/blob/main/topics/python/python.png](https://github.com/mireiaolive/mireiaolive/assets/83004118/63fab796-fa68-4f3b-ad8e-779338639fc7)" width="50" style="transform: rotate(45deg);">
+
 
 - Frontend Development
 - Backend Development
