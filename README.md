@@ -6,7 +6,8 @@ Eventually, I decided to enroll in a Full Stack Development Bootcamp, which prov
 
 ### Technologies
 - Languages
-  :html5: :css3: :javascript:
+ <img src="https://github.com/github/explore/blob/main/topics/python/python.png" width="30" style="transform: rotate(45deg);">
+
 - Frontend Development
 - Backend Development
 - Database
