@@ -7,6 +7,17 @@ Eventually, I decided to enroll in a Full Stack Development Bootcamp, which prov
 ### Technologies
 - Languages
 <div style="display: flex; justify-content: center;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" style="width: 100px;">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" style="width: 100px;">
+  </a>
+</div>
+
+
+- Frontend Development
+  <div style="display: flex; justify-content: center;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" style="width: 70px;">
   </a>
@@ -17,10 +28,6 @@ Eventually, I decided to enroll in a Full Stack Development Bootcamp, which prov
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" style="width: 60px;">
   </a>
 </div>
-
-
-
-- Frontend Development
 - Backend Development
 - Database
 - Software
